@@ -557,7 +557,7 @@ padding-left: 90px;
 
 }
 .row img{
-    width: 50%;
+    width: 100%;
     border-radius: 8px;
     display: block;
     transition:transform 0.5s;
